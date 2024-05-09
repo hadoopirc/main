@@ -2,10 +2,7 @@
     "api": {
         "host": [
  "http://app.elegantrobot.click",
-"http://pro.mysticshadow.lol",
-"http://speedtest.gentlestone.lat",
- "http://test.silenttree.store",
-            "http://api.mlfjjzmifle.xyz"
+"http://www.zestysunshine.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
