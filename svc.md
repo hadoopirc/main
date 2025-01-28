@@ -1,8 +1,8 @@
 {
     "api": {
         "host": [
- "http://app.elegantrobot.click",
-"http://www.zestysunshine.com"
+            "https://www.fluffycloudypillow.com",
+            "https://www.zestysunshine.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
