@@ -1,7 +1,8 @@
 {
+
     "api": {
         "host": [
-           "https://api.shimmeringoceansky.com"
+           "https://api.delightfulsong.com"
         ],
         "git": [
             "https://raw.githubusercontent.com/kangatec/trunk/main/svc.md",
